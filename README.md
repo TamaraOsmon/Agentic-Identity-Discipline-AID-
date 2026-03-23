@@ -1,0 +1,2 @@
+© 2026 PoetryInMotion AI Labs. All Rights Reserved.
+This document outlines the proprietary Agentic Identity Discipline (AID)™ framework. The methodology, logic structures, and the VoidWalker engine described herein are trade secrets of PoetryInMotion AI Labs. Unauthorized commercial reproduction or derivative frameworks without license are prohibited. "VoidWalker" and "Agentic Identity Discipline" are common law trademarks of Tamara Osmon.
