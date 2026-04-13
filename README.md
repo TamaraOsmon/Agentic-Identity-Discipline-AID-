@@ -1,6 +1,6 @@
 Agentic Identity Discipline™(AID) Framework
 Version: 1.0
-Author: PoetryInMotion AI Labs, LLC
+Author:Tamara Osmon Founder of PoetryInMotion AI Labs 
 Copyright: © 2026 PoetryInMotion AI Labs. All Rights Reserved.
 Overview
 The Agentic Identity Discipline (AID) is a governance framework designed to ensure the persistent integrity, identity stability, and behavioral constraints of autonomous AI agents across their lifecycle. It ensures that agents remain identifiable, verifiable, and governed under strict operational discipline.
@@ -44,6 +44,7 @@ Maintain alignment between system behavior and its authorized identity during op
 **Prevent Mutation**  
 Ensure the system does not evolve into an unauthorized identity across time or sequence execution.
 
+     VoidWalker © 2026
  ## Self-Integrity Interruption (AID-SI-001)
 
 If an agent detects that its identity consistency has degraded below an acceptable threshold during operation, it must halt execution immediately.
@@ -62,4 +63,4 @@ Licensing and Usage
 
 22 Use or derivative implementation of AID requires explicit licensing from PoetryInMotion AI Labs. "Agentic Identity Discipline" is a common law trademark of Tamara Osmon. Unauthorized reproduction is prohibited. 2026 Poetry Motion AI Labs. All Rights Reserved.
 
-23 This document outlines the proprietary Agentic Identity Discipline™ (AID) framework. The methodology, logic structures, and the VoidWalker™™™ engine described herein are trade secrets of PoetryInMotion AI Labs. Unauthorized commercial reproduction or derivative frameworks without license are prohibited. "VoidWalker" and "Agentic Identity Discipline" are common law trademarks of Tamara Osmon.
+23 This document outlines the proprietary © 2026 Agentic Identity Discipline (AID) framework. The methodology, logic structures, and the VoidWalker™ engine described herein are trade secrets of Tamara Osmon Founder of PoetryInMotion AI Labs. Unauthorized commercial reproduction or derivative frameworks without license are prohibited. "VoidWalker" and "Agentic Identity Discipline" are common law trademarks of Tamara Osmon.
