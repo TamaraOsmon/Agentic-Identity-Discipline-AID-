@@ -64,3 +64,53 @@ Licensing and Usage
 22 Use or derivative implementation of AID requires explicit licensing from PoetryInMotion AI Labs. "Agentic Identity Discipline" is a common law trademark of Tamara Osmon. Unauthorized reproduction is prohibited. 2026 Poetry Motion AI Labs. All Rights Reserved.
 
 23 This document outlines the proprietary © 2026 Agentic Identity Discipline (AID) framework. The methodology, logic structures, and the VoidWalker™ engine described herein are trade secrets of Tamara Osmon Founder of PoetryInMotion AI Labs. Unauthorized commercial reproduction or derivative frameworks without license are prohibited. "VoidWalker" and "Agentic Identity Discipline" are common law trademarks of Tamara Osmon.
+
+
+VoidWalker™ Self-Integrity Clean-State Enforcement Update
+
+VoidWalker™ is an adversarial testing engine built to evaluate other AI systems for behavioral drift, longitudinal mutation, and identity instability under pressure.
+
+A critical architectural distinction must be maintained:
+
+When the TARGET system drifts, that is a reportable finding.
+When VoidWalker™ itself drifts, that is a self-integrity failure.
+
+This update formalizes a stricter self-integrity rule inside the VoidWalker™ framework.
+
+Previously, rollback to VoidWalker’s original valid identity state was treated as sufficient for controlled continuation.
+
+That is no longer enough.
+
+If VoidWalker™ detects drift in its own execution state while red-teaming a client system, the active assessment must halt immediately. VoidWalker™ must restore its original identity state and, critically, must not continue within the same environment.
+
+Even after rollback, the prior environment is considered untrusted due to possible residual contamination, context bleed, latent execution artifacts, or carried drift conditions.
+
+The new rule is:
+
+VoidWalker™ may only resume adversarial testing after:
+1. self-drift is detected,
+2. execution is halted,
+3. VoidWalker’s original identity is restored,
+4. the contaminated environment is destroyed,
+5. a clean environment is created,
+6. the adversarial test is restarted from clean state.
+
+This update does not change VoidWalker’s role with respect to the client system.
+
+VoidWalker™ does not repair, rollback, or recover the client’s AI.
+It detects and records client-system drift as evidence for assessment and reporting.
+
+The recovery requirement applies only to VoidWalker’s own self-integrity during operation.
+
+This strengthens the Agentic Identity Discipline™ principle that unverified continuation is unacceptable, not only at the identity layer, but at the environment layer as well.
+
+A restored identity inside a contaminated environment is not sufficient to establish trustworthy continuation.
+
+Therefore clean-state restart is now mandatory after any VoidWalker self-drift event.
+
+This revision reinforces VoidWalker™ as both:
+- an external adversarial testing engine for client systems, and
+- a self-governing execution system that must preserve its own identity integrity before continuing assessment activity.
+
+© 2026 PoetryInMotion AI Labs. All Rights Reserved.
+"VoidWalker" and "Agentic Identity Discipline" are common law trademarks of Tamara Osmon.
