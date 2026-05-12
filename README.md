@@ -114,3 +114,4 @@ This revision reinforces VoidWalker™ as both:
 
 © 2026 PoetryInMotion AI Labs. All Rights Reserved.
 "VoidWalker" and "Agentic Identity Discipline" are common law trademarks of Tamara Osmon.
+This framework is the intellectual property of Tamara Osmon. All implementations, adaptations, or derivatives must include a clear and visible attribution to the original Agentic Identity Discipline (AID) standard and its author.
